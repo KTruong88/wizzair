@@ -4,7 +4,7 @@
 <a href="https://ktruong88.github.io/">Portfolio</a>
 
 <h4>A clone of Wizzair.com's website.</h4>
-<p>Utilizing Vue.js components, created a responsive, identical website with most of the functionality.</p>
+<p>Created a responsive, almost identical website using media queries, max-widths, and flexbox to produce tablet-friendly, visually appealing views on most screen widths and resolutions</p>
 
 
 ![screenshot of homepage](https://github.com/KTruong88/wizzair/blob/master/images/ss1.png)
