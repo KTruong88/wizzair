@@ -4,7 +4,7 @@
 <a href="https://ktruong88.github.io/">Portfolio</a>
 
 <h4>A clone of Wizzair.com's website.</h4>
-<p>Utilizing Vue.js components, created a fully responsive, identical website with most of the functionality.</p>
+<p>Utilizing Vue.js components, created a responsive, identical website with most of the functionality.</p>
 
 
 ![screenshot of homepage](https://github.com/KTruong88/wizzair/blob/master/images/ss1.png)
@@ -30,3 +30,13 @@ npm install
 npm run dev
 
 # open browser and go to localhost:8080
+
+#TODO
+
+1. The app is not fully mobile optimized yet. Once the screen size dips below say, 500 pixels, some of the sections don’t look as great.
+
+2. Implement functionality for the hamburger menu of the navbar when it appears.
+
+4. Breakout out some of the larger component files into smaller components to become more easily tested, changed, and re-used.
+
+3. Refactor the code to reduce repetition. Use a compiled CSS language to reduce much of the CSS repetition.
