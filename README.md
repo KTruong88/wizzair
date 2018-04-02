@@ -1,6 +1,6 @@
 # wizzair
 
-<a href="https://ktruong88.github.io/wizzair-app/"><Live</a> <br>
+<a href="https://ktruong88.github.io/wizzair-app/">Live</a> <br>
 <a href="https://www.linkedin.com/in/ktruong01/">LinkedIn</a> <br>
 <a href="https://ktruong88.github.io/">Portfolio</a>
 
