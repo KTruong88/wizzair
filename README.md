@@ -18,20 +18,6 @@
 
 ![screenshot of modal](https://github.com/KTruong88/wizzair/blob/master/images/ss6.png)
 
-## Check out the project
-
-``` bash
-# clone the repository on your computer
-cd wizzair
-
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# open browser and go to localhost:8080
-
 #TODO
 
 1. The app is not fully mobile optimized yet. Once the screen size dips below say, 500 pixels, some of the sections don’t look as great.
