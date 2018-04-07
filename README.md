@@ -20,7 +20,7 @@
 
 #TODO
 
-1. The app is not fully mobile optimized yet. Once the screen size dips below say, 500 pixels, some of the sections don’t look as great.
+1. ~~The app is not fully mobile optimized yet. Once the screen size dips below say, 500 pixels, some of the sections don’t look as great.
 
 2. Implement functionality for the hamburger menu of the navbar when it appears.
 
